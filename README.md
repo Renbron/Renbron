@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryan Young
+- 👋 Hi, I’m Ryan Young
 - 👀 I’m interested in creating Python backends for web-based apps deployed on AWS.
 - 🌱 I’m currently learning CI/CD and Solutions Architect
 - 📫 You can reach my on:
