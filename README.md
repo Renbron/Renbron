@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CI/CD and Solutions Architect
 - 📫 You can reach my on:
     my email: ryanryyoung123@gmail.com
-    my linkedin: https://www.linkedin.com/in/ryan-young-3b05b0236/
+    my linkedin: [https://www.linkedin.com/in/ryan-young-3b05b0236/](https://www.linkedin.com/in/ryanyoung00/)
     
 
 <!---
