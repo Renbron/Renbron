@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Young
-- 👀 I’m interested in creating Python backends for web-based apps deployed on AWS.
-- 🌱 I’m currently learning CI/CD and Solutions Architect
+- 👀 I’m interested in creating .NET Developer at Entelect.
+- 🌱 I’m currently learning React and all things frontend.
 - 📫 You can reach my on:
     my email: ryanryyoung123@gmail.com
     my linkedin: https://www.linkedin.com/in/ryanyoung00/
